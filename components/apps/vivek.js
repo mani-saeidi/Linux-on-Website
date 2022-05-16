@@ -113,7 +113,7 @@ function About() {
                 <img className="w-full" src="./images/logos/mani.png" alt="Mani Saeidi Logo" />
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
-                <div>Hi, my name is <span className="font-bold">Mani Saeidi</span>.</div>
+                <div>Hi! My name is <span className="font-bold">Mani Saeidi</span>.</div>
                 <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Software Engineer & an Electrical Engineer!</span></div>
             </div>
             <div className=" my-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
@@ -122,9 +122,9 @@ function About() {
             </div>
             <ul className=" leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
                 <li className=" list-pc">I'm a <span className=" font-medium">Fullstack Web Developer</span> pursuing a bootcamp at <a href="https://leonnoel.com/">100Devs</a> and finishing my M.S. degree in Electrical Engineering and Computer Engineering from <a href="https://www.csun.edu/" rel="noreferrer" target="_blank">California State University, Northridge</a>.</li>
-                <li className=" mt-3 list-building"> I enjoy automating work and building awesome softwares that solve practical problems.</li>
-                <li className=" mt-3 list-time"> When I am not coding my next project, I like to spend my time reading books, playing minecraft or watching <a href="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A" target="_blank" rel="noreferrer"> tom scott's videos.</a></li>
-                <li className=" mt-3 list-star"> And I also have interest in Deep Learning & Computer Vision!</li>
+                <li className=" mt-3 list-building"> I enjoy automating coding puzzles and building automated software tools that solve practical problems.</li>
+                <li className=" mt-3 list-time"> When I am not coding my next project, I like to spend my time reading manga, watching anime, or watching <a href="https://www.twitch.tv/learnwithleon" target="_blank" rel="noreferrer"> Leon Noel's videos.</a></li>
+                <li className=" mt-3 list-star"> And I also have a passion as well as a professional certificate in Machine Learning, Deep Learning, & Neural Networks!</li>
             </ul>
         </>
     )
