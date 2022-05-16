@@ -113,7 +113,7 @@ function About() {
                 <img className="w-full" src="./images/logos/mani.png" alt="Mani Saeidi Logo" />
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
-                <div>Hi! My name is <span className="font-bold">Mani Saeidi</span>.</div>
+                <div>Hello 🖐🏼, I am <span className="font-bold">Mani Saeidi</span>.</div>
                 <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Software Engineer & an Electrical Engineer!</span></div>
             </div>
             <div className=" my-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
