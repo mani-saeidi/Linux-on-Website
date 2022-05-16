@@ -5,14 +5,14 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title>Vivek Patel Portfolio - Computer Engineering Student</title>
+            <title>Mani Saeidi Portfolio - Electrical Engineering And Computer Engineering Mast\'er\'s Student</title>
             <meta charSet="utf-8" />
-            <meta name="title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="title" content="Mani Saeidi Portfolio - Electrical Engineering & Computer Engineering Student" />
             <meta name="description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="author" content="Vivek Patel (vivek9patel)" />
+                content="Mani Saeidi (mani-saeidi) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+            <meta name="author" content="Mani Saeidi (mani-saeidi)" />
             <meta name="keywords"
-                content="vivek9patel, vivek9patel's portfolio, vivek9patel linux, ubuntu portfolio, vivek patel protfolio,vivek patel computer, vivek patel, vivek ubuntu, vivek patel ubuntu portfolio" />
+                content="mani-saeidi, mani-saeidi's portfolio, mani-saeidi linux, ubuntu portfolio, mani saeidi portfolio, mani saeidi computer, mani saeidi software, mani saeidi, mani saeidi ubuntu, mani saeidi ubuntu portfolio" />
             <meta name="robots" content="index, follow" />
             <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
             <meta name="language" content="English" />
@@ -22,26 +22,26 @@ export default function Meta() {
             /* Search Engine */
             <meta name="image" content="images/logos/fevicon.png" />
             /* Schema.org for Google */
-            <meta itemProp="name" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta itemProp="name" content="Mani Saeidi Portfolio - Electrical Engineering & Computer Engineering Student" />
             <meta itemProp="description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="Mani Saeidi's (mani-saeidi) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta itemProp="image" content="images/logos/fevicon.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="twitter:title" content="Mani Saeidi Portfolio - Electrical Engineering & Computer Engineering Student" />
             <meta name="twitter:description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="twitter:site" content="vivek9patel" />
-            <meta name="twitter:creator" content="vivek9patel" />
+                content="Mani Saeidi's (mani-saeidi) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+            <meta name="twitter:site" content="Mani Saeidi" />
+            <meta name="twitter:creator" content="Mani Saeidi" />
             <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
-            <meta name="og:title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="og:title" content="Mani Saeidi Portfolio - Electrical Engineering and Computer Engineering Student" />
             <meta name="og:description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="Mani Saeidi's (mani-saeidi) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="og:image" content="images/logos/logo_1200.png" />
-            <meta name="og:url" content="http://vivek9patel.github.io/" />
-            <meta name="og:site_name" content="Vivek Patel Personal Portfolio" />
-            <meta name="og:locale" content="en_IN" />
+            <meta name="og:url" content="http://mani-saeidi.github.io/" />
+            <meta name="og:site_name" content="Mani Saeidi Personal Portfolio" />
+            <meta name="og:locale" content="en_US" />
             <meta name="og:type" content="website" />
 
             <link rel="icon" href="images/logos/fevicon.svg" />
