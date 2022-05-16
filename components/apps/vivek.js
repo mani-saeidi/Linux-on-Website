@@ -124,7 +124,7 @@ function About() {
                 <li className=" list-pc">I'm a <span className=" font-medium">Fullstack Web Developer</span> pursuing a bootcamp at <a href="https://leonnoel.com/">100Devs</a> and finishing my M.S. degree in Electrical Engineering and Computer Engineering from <a href="https://www.csun.edu/" rel="noreferrer" target="_blank">California State University, Northridge</a>.</li>
                 <li className=" mt-3 list-building"> I enjoy automating coding puzzles and building automated software tools that solve practical problems.</li>
                 <li className=" mt-3 list-time"> When I am not coding my next project, I like to spend my time reading manga, watching anime, or watching <a href="https://www.twitch.tv/learnwithleon" target="_blank" rel="noreferrer"> Leon Noel's videos.</a></li>
-                <li className=" mt-3 list-star"> And I also have a passion as well as a professional certificate in Machine Learning, Deep Learning, & Neural Networks!</li>
+                <li className=" mt-3 list-star"> I also have a professional certificate in Machine Learning, Deep Learning, & Neural Networks, so I'd like to improve in that area!</li>
             </ul>
         </>
     )
@@ -146,7 +146,7 @@ function Education() {
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2021 - 2023</div>
                     <div className=" text-sm md:text-base"> M.S. in Electrical Engineering & Computer Engineering</div>
-                    <div className="text-sm text-gray-300 font-bold mt-1">GPA &nbsp; 4.0</div>
+                    <div className="text-sm text-gray-300 font-bold mt-1">GPA: 4.0</div>
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
@@ -222,13 +222,13 @@ function Skills() {
 function Projects() {
     const project_list = [
         {
-            name: "economist.com Unlocked",
-            date: "Mar 2021",
-            link: "https://github.com/vivek9patel/economist.com-unlocked",
+            name: "Spotify Chart Rank Predictor",
+            date: "February 2021",
+            link: "https://github.com/mani-saeidi/songpredictor",
             description: [
-                "A chrome extension to read Paid Articles for Free & with no Ads, no subscription, no memberships!",
+                "Predicts the popularity on Spotify's Charts for a song based on various features (genre, danceability, # of curse words) using a linear regression supervised learning model in Jupiter Notebooks via Python, numpy, & pandas.",
             ],
-            domains: ["javascript", "chrome-extension"]
+            domains: ["Python", "Jupiter Notebooks"]
         },
         {
             name: "Flutter banking app",
@@ -288,6 +288,8 @@ function Projects() {
         "sass": "pink-400",
         "tensorflow": "yellow-600",
         "django": "green-600",
+        "Jupiter Notebooks": "yellow-400"
+        "Python": "green-200",
         "python": "green-200",
         "codeforces-api": "gray-300",
     }
