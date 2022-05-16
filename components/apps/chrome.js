@@ -3,10 +3,10 @@ import React, { Component } from 'react';
 export class Chrome extends Component {
     constructor() {
         super();
-        this.home_url = 'https://www.linkedin.com/in/mani-saeidi/';
+        this.home_url = 'https://www.google.com/webhp?igu=1';
         this.state = {
-            url: 'https://www.linkedin.com/in/mani-saeidi/',
-            display_url: "https://www.linkedin.com/in/mani-saeidi/",
+            url: 'https://www.google.com/webhp?igu=1',
+            display_url: "https://www.google.com",
         }
     }
 
