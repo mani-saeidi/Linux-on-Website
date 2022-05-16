@@ -153,7 +153,7 @@ function Education() {
                         Univeristy of California Santa Cruz<sup>th</sup> (GSEB)
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2013-2017</div>
-                    <div className=" text-sm md:text-base">B.S. in Earth Science with Concentration in Solar/div>
+                    <div className=" text-sm md:text-base">B.S. in Earth Science with Concentration in Solar</div>
                     <div className="text-sm text-gray-300 font-bold mt-1">Thesis Dissertation: "Basics and growth of photovoltaic efficiencies: extrapolating the potential of various solar cell technologies" </div>
                 </li>
             </ul>
