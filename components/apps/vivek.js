@@ -112,16 +112,16 @@ function About() {
             <div className="w-20 md:w-28 my-4 bg-white rounded-full">
                 <img className="w-full" src="./images/logos/mani.png" alt="Mani Saeidi Logo" />
             </div>
-            <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">Hi
-                <div>my name is <span className="font-bold">Mani Saeidi</span> ,</div>
-                <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Web Developer!</span></div>
+            <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
+                <div>Hi, my name is <span className="font-bold">Mani Saeidi</span>,</div>
+                <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Fullstack Web Developer!</span></div>
             </div>
             <div className=" my-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 left-0"></div>
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
             </div>
             <ul className=" leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-                <li className=" list-pc">I'm a <span className=" font-medium">Software Engineer</span> pursuing a bootcamp at <a href="https://leonnoel.com/">100Devs</a> and finishing my M.S. degree in Electrical Engineering from <a href="https://www.csun.edu/" rel="noreferrer" target="_blank">California State University, Northridge</a>.</li>
+                <li className=" list-pc">I'm a <span className=" font-medium">Software Engineer</span> pursuing a bootcamp at <a href="https://leonnoel.com/">100Devs</a> and finishing my M.S. degree in Electrical Engineering and Computer Engineering from <a href="https://www.csun.edu/" rel="noreferrer" target="_blank">California State University, Northridge</a>.</li>
                 <li className=" mt-3 list-building"> I enjoy automating work and building awesome softwares that solve practical problems.</li>
                 <li className=" mt-3 list-time"> When I am not coding my next project, I like to spend my time reading books, playing minecraft or watching <a href="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A" target="_blank" rel="noreferrer"> tom scott's videos.</a></li>
                 <li className=" mt-3 list-star"> And I also have interest in Deep Learning & Computer Vision!</li>
