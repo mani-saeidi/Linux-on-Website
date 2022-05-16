@@ -145,8 +145,8 @@ function Education() {
                         California State University Northridge
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2021 - 2023</div>
-                    <div className=" text-sm md:text-base">M.S. in Electrical Engineering & Computer Engineering</div>
-                    <div className="text-sm text-gray-300 font-bold mt-1">GPA &nbsp; 4.0/div>
+                    <div className=" text-sm md:text-base"> M.S. in Electrical Engineering & Computer Engineering</div>
+                    <div className="text-sm text-gray-300 font-bold mt-1">GPA &nbsp; 4.0</div>
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
