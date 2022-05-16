@@ -288,7 +288,7 @@ function Projects() {
         "sass": "pink-400",
         "tensorflow": "yellow-600",
         "django": "green-600",
-        "Jupiter Notebooks": "yellow-400"
+        "Jupiter Notebooks": "yellow-400",
         "Python": "green-200",
         "python": "green-200",
         "codeforces-api": "gray-300",
