@@ -222,6 +222,15 @@ function Skills() {
 function Projects() {
     const project_list = [
         {
+            name: "Unitox Website For Client",
+            date: "Jan 2022",
+            link: "https://www.unitox.net",
+            description: [
+                "Developed and designed a BOTOX Syringe website for a client via Wordpress and then later Shopify, optimized website code and SEO to make it rank #1 on Google. Helped profits increase by $450,000 over the course of 3 years from $100,000.",
+            ],
+            domains: ["javascript", "css", "html5", "liquid"]
+        },
+        {
             name: "Spotify Chart Rank Predictor",
             date: "February 2021",
             link: "https://github.com/mani-saeidi/songpredictor",
@@ -230,49 +239,23 @@ function Projects() {
             ],
             domains: ["Python", "Jupiter Notebooks"]
         },
+        
         {
-            name: "Flutter banking app",
-            date: "Jan 2021",
-            link: "https://github.com/vivek9patel/flutter-banking-app",
+            name: "SHA-1 Hash Password Checker",
+            date: "July 2020",
+            link: "https://github.com/mani-saeidi/password-security-checker",
             description: [
-                "A Flutter & Firebase project for creating transactions between different Users and displaying the history of transactions done by all.",
+                "Tool built to checks if a password has ever been hacked before using haveibeenpwned's API.",
             ],
-            domains: ["flutter", "firestore", "dart", "firebase auth"]
+            domains: ["Python"]
         },
         {
-            name: "CPU scheduling application",
-            date: "Dec 2020",
-            link: "https://github.com/vivek9patel/CPU-Scheduling-APP-React-Native",
+            name: "Dual-Axis Solar Tracker",
+            date: "August 2020",
             description: [
-                "React Native Application to visualize the CPU Scheduling algorithms with different Processes and Animations with gannt chart.",
+                "Built and programmed a dual-axis solar tracker and phone charger utilizing servo motors and C programming in Arduino.",
             ],
-            domains: ["react-native", "javascript"]
-        },
-        {
-            name: "Meditech Healthcare WebApp",
-            date: "Nov 2020",
-            link: "https://github.com/vivek9patel/Meditech-Healthcare",
-            description: [
-                "Developed Web Application to predict and diagnose diseases from x-ray images.",
-            ],
-            domains: ["javascript", "html5", "sass", "firebase", "tensorflow"]
-        },
-        {
-            name: "Problem Recommendation System",
-            date: "Sep 2020",
-            link: "https://github.com/vivek9patel/Improve-Codeforces",
-            description: [
-                "Django web application to suggest practice problems from the areas in which the user struggles to get pass in code-forces.",
-            ],
-            domains: ["django", "python", "codeforces-api", "javascript"]
-        },
-        {
-            name: "Cleanliness Automation",
-            date: "Dec 2019",
-            link: "https://github.com/vivek9patel/CPU-Scheduling-APP-React-Native",
-            description: [
-                "Developed Web Applications to automate Garbage collection and extraction systems for SSIP hackathon",
-            ],
+            domains: ["Arduino", "C"]
         }
     ];
 
@@ -285,6 +268,10 @@ function Projects() {
         "dart": "blue-500",
         "react-native": "purple-500",
         "html5": "pink-600",
+        "css": "red-500",
+        "C": "green-200",
+        "Arduino": "gray-300",
+        "liquid" : "pink-400",
         "sass": "pink-400",
         "tensorflow": "yellow-600",
         "django": "green-600",
@@ -340,6 +327,6 @@ function Projects() {
 }
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="./files/Vivek-Patel-Resume.pdf" title="vivek patel resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="./files/Mani-Resume.pdf" title="mani saeidi resume" frameBorder="0"></iframe>
     )
 }
