@@ -326,6 +326,6 @@ function Projects() {
 }
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="./files/Mani-Resume.pdf" title="mani saeidi resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="./files/Mani-Saeidi-Resume.png" title="mani saeidi resume" frameBorder="0"></iframe>
     )
 }
